@@ -1,0 +1,7 @@
+C:\Users\Lech Kula\source\repos\Broadcast\Broadcast\bin\Debug\Broadcast.exe.config
+C:\Users\Lech Kula\source\repos\Broadcast\Broadcast\bin\Debug\Broadcast.exe
+C:\Users\Lech Kula\source\repos\Broadcast\Broadcast\bin\Debug\Broadcast.pdb
+C:\Users\Lech Kula\source\repos\Broadcast\Broadcast\obj\Debug\Broadcast.csprojAssemblyReference.cache
+C:\Users\Lech Kula\source\repos\Broadcast\Broadcast\obj\Debug\Broadcast.csproj.CoreCompileInputs.cache
+C:\Users\Lech Kula\source\repos\Broadcast\Broadcast\obj\Debug\Broadcast.exe
+C:\Users\Lech Kula\source\repos\Broadcast\Broadcast\obj\Debug\Broadcast.pdb
